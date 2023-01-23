@@ -5,7 +5,7 @@ Objetivo: Criar uma collection com Postman, automatizar testes de API utilizando
 <br/><br/><br/>
 
 API usada como base: <a href="https://restful-booker.herokuapp.com/apidoc/index.html#api-Booking"> Restful-booker</a> <br/>
-Linguagem: Java <br/>
+Linguagens: Java e JavaScript <br/>
 IDE: IntelliJ <br/>
 Bibliotecas e frameworks: Rest Assured, JUnit, Allure Framework<br/>
 Outras ferramentas: Postman
@@ -47,6 +47,3 @@ Outras ferramentas: Postman
    ![image](https://user-images.githubusercontent.com/102275682/214165145-bec6d2a8-9160-4eff-867b-8f5b9869dab2.png)
    - Suites:
    ![image](https://user-images.githubusercontent.com/102275682/214165316-74d30f28-8f85-424c-87f5-49c3167d5948.png)
-
-
-  
