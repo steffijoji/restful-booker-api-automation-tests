@@ -24,7 +24,7 @@ Outras ferramentas: Postman
   - GET -> Ping - HealthCheck
 - Apliquei testes no escopo collection: response time e header
 - Apliquei testes em cada request: status code e body response text
-- Exportei a collection e adicionei a esse repositório
+- Exportei a collection e adicionei a <a href="https://github.com/steffijoji/restful-booker-api-automation-tests/blob/main/Restful-booker.postman_collection.json">esse repositório </a> 
 <br/><br/>
 
 **2º Passo realizado: Automatizar os testes de API com Rest Assured + JUnit**
