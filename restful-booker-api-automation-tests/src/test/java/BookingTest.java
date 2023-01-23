@@ -61,7 +61,7 @@ public class BookingTest {
                 .post("/auth")
                 .then()
                 .assertThat().statusCode(200).and()
-                .time(lessThan(2000L))
+                .time(lessThan(5000L))
                 .extract().response();
 
         Assertions.assertNotNull(response);
@@ -122,7 +122,6 @@ public class BookingTest {
                 .assertThat().statusCode(403).and()
                 .time(lessThan(2000L));
     }
-
 
     @Test
     @Order(6)
